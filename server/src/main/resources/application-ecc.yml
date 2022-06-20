@@ -1,5 +1,6 @@
 spring:
   redis:
-    host: 54.212.122.37
+    # host: 54.212.122.37
+    host: 127.0.0.1
     port: 6379
-    password: buddy1357
+    # password: buddy1357

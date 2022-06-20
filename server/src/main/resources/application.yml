@@ -1,6 +1,11 @@
 spring:
-  profiles:
-    include: ecc
+  redis:
+    host: 54.212.122.37
+    port: 6379
+    password: buddy1357
+
+  # profiles:
+    # include: ecc
 
   jpa:
     database: mysql
